@@ -17,20 +17,20 @@ This project demonstrates how to use analog writing (PWM) with Arduino to contro
 - Jumper wires
 - Breadboard
 
-## 📦 How to Use
+## How to Use
 
 1. Upload the code to your Arduino using the Arduino IDE.
 2. Rotate the potentiometer and watch the LED brightness change.
 3. Modify pin numbers or adjust the delay for custom behavior.
 
-## 🧠 Learning Outcome
+## Learning Outcome
 
 This sketch teaches:
 - How to use `analogRead()` and `analogWrite()`
 - Scaling analog input to PWM output
 - Real-world control using user input (potentiometer)
 
-## 📜 License
+## License
 
 This project is open-source and free to use.
 
