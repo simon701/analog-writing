@@ -12,7 +12,7 @@ This project demonstrates how to use analog writing (PWM) with Arduino to contro
 
 - Arduino board (e.g., Uno, Nano)
 - 1x LED
-- 1x 220Ω resistor
+- 1x 1000Ω resistor
 - 1x Potentiometer
 - Jumper wires
 - Breadboard
